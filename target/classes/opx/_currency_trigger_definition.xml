@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<trigger-definitions>
+
+    <!--    Trigger Configuration XML for Practice - April 17th 2023 -->
+    <grcTrigger name="Currency - Calculation"
+                event="create.object" position="PRE">
+        <rule class="com.ibm.openpages.rule.CurrencyRule"/>
+
+        <eventHandler
+                class="com.ibm.openpages.handler.CurrencyHandler"/>
+    </grcTrigger>
+
+</trigger-definitions>

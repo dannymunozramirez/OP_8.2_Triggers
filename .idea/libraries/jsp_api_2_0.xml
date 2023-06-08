@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jsp-api-2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Development/IBM/Openpages/Ikigai/servletLib/jsp-api-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../../Development/IBM/Openpages/Ikigai/servletLib/servlet-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
